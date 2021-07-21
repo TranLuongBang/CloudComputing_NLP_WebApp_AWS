@@ -19,4 +19,4 @@ While training with Bert architecture we got around 84% accuracy.
 
 Data: https://www.kaggle.com/kazanova/sentiment140
 
-**Note:** For more information, please check out the report Final_Project_CLC.pdf.
+**Note:** For more information, please check out the report Project_Report.pdf.
