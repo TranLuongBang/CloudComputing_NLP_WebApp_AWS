@@ -9,7 +9,7 @@ We will also measure the performance and the scalability of webserver by
 sending multiple requests to our server
 
 ### Design of Solution 
-![image](https://user-images.githubusercontent.com/18412307/200100555-b57f2c64-75e4-48c3-a140-a4d71bf95eeb.png)
+![image](https://user-images.githubusercontent.com/18412307/200100591-c1d32e30-aa8b-4eaa-9dd1-e2651c11a3a9.png)
 
 
 ### Training Model for Sentiment Analysis
