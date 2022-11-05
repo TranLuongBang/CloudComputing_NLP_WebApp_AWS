@@ -9,7 +9,8 @@ We will also measure the performance and the scalability of webserver by
 sending multiple requests to our server
 
 ### Design of Solution 
-![alt text](https://github.com/TranLuongBang/CloudComputing_NLP_WebApp_AWS/blob/9df705784a5a898164a7aa152ce5c3b13a08680c/images/design.png)
+![image](https://user-images.githubusercontent.com/18412307/200100555-b57f2c64-75e4-48c3-a140-a4d71bf95eeb.png)
+
 
 ### Training Model for Sentiment Analysis
 
